@@ -200,7 +200,7 @@ describe "#display_board in 'lib/display_board.rb" do
 
         # *** Comment the line below by adding a # at the line start ***
         #expect(true).to be(true)
-      end
+      
       # Can you copy the syntax of the tests above to write a test for a board
       # entirely filled with Os?
 
